@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/DBgreenDine_Reservation?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/DBGreenDine?createDatabaseIfNotExist=true
     username: root
     password: 1234
   jpa:
